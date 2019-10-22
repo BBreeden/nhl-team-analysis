@@ -20,7 +20,6 @@ def get_request():
     #Construct, index, and return the data frame.
     df = pd.DataFrame(team_stats_all, columns = features)
     df.set_index('id', inplace=True)
-    print('You are all set, have fun!')
     return df
 
 def get_team_ids():

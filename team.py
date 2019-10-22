@@ -41,7 +41,8 @@ class Team():
         # The attributes of a team object are dynamically generated. The below code will throw an error, disregard.
         self.totalGoals = math.ceil((self.gamesPlayed * self.goalsPerGame)) #Rounds up
         self.totalGoalsAllowed = math.ceil((self.gamesPlayed * self.goalsAgainstPerGame)) #Rounds up
-        self.py_exp = py_exp(self.totalGoals, self.totalGoalsAllowed)
+        self.pyExp = py_exp(self.totalGoals, self.totalGoalsAllowed)
+        self.winPerc = (self.wins / self.gamesPlayed)
 
 '''
 Calculates the Pythagorean Expectation given the goals a team has scored and how many they have allowed.
