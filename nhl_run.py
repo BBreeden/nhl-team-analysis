@@ -2,12 +2,23 @@ import requests
 import nhl_sch_request
 import get_nhl_team_stats
 import pandas as pd
+from datetime import datetime
 
 '''
 Gets the JSON object that returns data associated with the NHL games that take place today.
 '''
 def init():
     return nhl_sch_request.get_request()
+
+'''
+Returns today's date in the YYYY-MM-DD format.
+'''
+def get_today():
+    return datetime.today().strftime('%Y-%m-%d')
+
+def greeting():
+    print('Good morning and welcome to your scouting report.')
+    print(str(get_today()))
 
 '''
 This function is a bit complex. Refactoring may be needed here. This function does a few things.
@@ -36,5 +47,6 @@ def get_playing_team_stats(req):
 
 
 if __name__ == '__main__':
+    greeting()
     req = init()
     get_playing_team_stats(req)
