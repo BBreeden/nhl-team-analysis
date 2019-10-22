@@ -20,7 +20,7 @@ def get_playing_team_stats(req):
     for i, game in enumerate(games): #loops through each game
         home_id = req['dates'][0]['games'][i]['teams']['home']['team']['id']
         away_id = req['dates'][0]['games'][i]['teams']['away']['team']['id']
-        
+        #get stats for the home and away team and print them side by side
         print('{} @ {}'.format(away_id, home_id))
 
 if __name__ == '__main__':
