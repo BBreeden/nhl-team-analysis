@@ -1,4 +1,3 @@
-import requests
 import nhl_sch_request
 import get_nhl_team_stats
 import pandas as pd
@@ -16,6 +15,9 @@ Returns today's date in the YYYY-MM-DD format.
 def get_today():
     return datetime.today().strftime('%Y-%m-%d')
 
+'''
+A simple greeting (with the current date) to be displayed when the script runs.
+'''
 def greeting():
     print('Good morning and welcome to your scouting report.')
     print(str(get_today()))
@@ -33,11 +35,12 @@ def get_playing_team_stats(req):
     stats = get_nhl_team_stats.get_request()
 
     for i, game in enumerate(games): #loops through each game
-        home = req['dates'][0]['games'][i]['teams']['home']['team']['name']
         away = req['dates'][0]['games'][i]['teams']['away']['team']['name']
-        home_stats = stats.loc[stats['name'] == home]
+        home = req['dates'][0]['games'][i]['teams']['home']['team']['name']
+
         away_stats = stats.loc[stats['name'] == away]
-        game_stats = pd.concat([home_stats, away_stats])
+        home_stats = stats.loc[stats['name'] == home]
+
         for column in home_stats:
             print('{} {} {} {} {}'.format(away_stats.iloc[0]['abrv'], '-', column, '-', away_stats.iloc[0][column]))
             print('{} {} {} {} {}'.format(home_stats.iloc[0]['abrv'], '-', column, '-', home_stats.iloc[0][column]))
@@ -48,5 +51,4 @@ def get_playing_team_stats(req):
 
 if __name__ == '__main__':
     greeting()
-    req = init()
-    get_playing_team_stats(req)
+    get_playing_team_stats(init())
