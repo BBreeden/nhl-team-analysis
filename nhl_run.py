@@ -39,8 +39,8 @@ def get_playing_team_stats(req):
         away_stats = stats.loc[stats['name'] == away]
         game_stats = pd.concat([home_stats, away_stats])
         for column in home_stats:
-            print('{} {} {} {} {}'.format(home_stats.iloc[0]['abrv'], '-', column, '-', home_stats.iloc[0][column]))
             print('{} {} {} {} {}'.format(away_stats.iloc[0]['abrv'], '-', column, '-', away_stats.iloc[0][column]))
+            print('{} {} {} {} {}'.format(home_stats.iloc[0]['abrv'], '-', column, '-', home_stats.iloc[0][column]))
             print('-----')
         
         print('-------------------------------------------')
