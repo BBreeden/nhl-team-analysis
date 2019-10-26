@@ -9,3 +9,5 @@
 <li>The script will run, the results will be output to the reports directory</li>
 </ol>
 
+<h2>Requirements</h2>
+Please see requirements.txt
