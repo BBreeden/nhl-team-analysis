@@ -10,4 +10,7 @@
 </ol>
 
 <h2>Requirements</h2>
-Please see requirements.txt
+<p>Please see requirements.txt</p>
+
+<h2>Report Data Dictionary</h2>
+<p><b>Note:</b> I have not completed the data dictionary yet, it is a priority and I hope to have it completed soon.</p>
