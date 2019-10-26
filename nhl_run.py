@@ -36,7 +36,7 @@ def get_playing_team_stats(req):
     stats = get_nhl_team_stats.get_request()
 
     #Report generation start
-    report = open('report.txt', 'w+')
+    report = open('reports/report-{}.txt'.format(get_today()), '+w')
     report.write((get_today()) + '\n')
 
     for i, game in enumerate(games): #loops through each game
