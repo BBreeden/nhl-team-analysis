@@ -1,0 +1,1684 @@
+2019-10-26
+CHI - name - Chicago Blackhawks
+CAR - name - Carolina Hurricanes
+-----
+CHI - abrv - CHI
+CAR - abrv - CAR
+-----
+CHI - gamesPlayed - 8
+CAR - gamesPlayed - 10
+-----
+CHI - wins - 2
+CAR - wins - 6
+-----
+CHI - losses - 4
+CAR - losses - 3
+-----
+CHI - ot - 2
+CAR - ot - 1
+-----
+CHI - pts - 6
+CAR - pts - 13
+-----
+CHI - ptPctg - 37.5
+CAR - ptPctg - 65.0
+-----
+CHI - goalsPerGame - 2.5
+CAR - goalsPerGame - 3.2
+-----
+CHI - goalsAgainstPerGame - 3.125
+CAR - goalsAgainstPerGame - 2.9
+-----
+CHI - evGGARatio - 0.9286
+CAR - evGGARatio - 1.1111
+-----
+CHI - powerPlayPercentage - 11.5
+CAR - powerPlayPercentage - 17.6
+-----
+CHI - powerPlayGoals - 3.0
+CAR - powerPlayGoals - 6.0
+-----
+CHI - powerPlayGoalsAgainst - 6.0
+CAR - powerPlayGoalsAgainst - 8.0
+-----
+CHI - powerPlayOpportunities - 26.0
+CAR - powerPlayOpportunities - 34.0
+-----
+CHI - penaltyKillPercentage - 76.0
+CAR - penaltyKillPercentage - 79.5
+-----
+CHI - shotsPerGame - 32.25
+CAR - shotsPerGame - 33.1
+-----
+CHI - shotsAllowed - 32.375
+CAR - shotsAllowed - 29.1
+-----
+CHI - winScoreFirst - 0.4
+CAR - winScoreFirst - 1.0
+-----
+CHI - winOppScoreFirst - 0.0
+CAR - winOppScoreFirst - 0.2
+-----
+CHI - winLeadFirstPer - 0.333
+CAR - winLeadFirstPer - 0.75
+-----
+CHI - winLeadSecondPer - 0.333
+CAR - winLeadSecondPer - 1.0
+-----
+CHI - winOutshootOpp - 0.333
+CAR - winOutshootOpp - 0.6
+-----
+CHI - winOutshotByOpp - 0.2
+CAR - winOutshotByOpp - 0.6
+-----
+CHI - faceOffsTaken - 431.0
+CAR - faceOffsTaken - 619.0
+-----
+CHI - faceOffsWon - 210.0
+CAR - faceOffsWon - 307.0
+-----
+CHI - faceOffsLost - 221.0
+CAR - faceOffsLost - 312.0
+-----
+CHI - faceOffWinPercentage - 48.7
+CAR - faceOffWinPercentage - 49.6
+-----
+CHI - shootingPctg - 7.8
+CAR - shootingPctg - 9.7
+-----
+CHI - savePctg - 0.903
+CAR - savePctg - 0.9
+-----
+CHI - r_wins - 29
+CAR - r_wins - 12
+-----
+CHI - r_losses - 19
+CAR - r_losses - 12
+-----
+CHI - r_ot - 8
+CAR - r_ot - 16
+-----
+CHI - r_pts - 27
+CAR - r_pts - 13
+-----
+CHI - r_ptPctg - 27
+CAR - r_ptPctg - 11
+-----
+CHI - r_goalsPerGame - 25
+CAR - r_goalsPerGame - 12
+-----
+CHI - r_goalsAgainstPerGame - 17
+CAR - r_goalsAgainstPerGame - 13
+-----
+CHI - r_evGGARatio - 21
+CAR - r_evGGARatio - 12
+-----
+CHI - r_powerPlayPercentage - 25
+CAR - r_powerPlayPercentage - 20
+-----
+CHI - r_powerPlayGoals - 28
+CAR - r_powerPlayGoals - 16
+-----
+CHI - r_powerPlayGoalsAgainst - 16
+CAR - r_powerPlayGoalsAgainst - 23
+-----
+CHI - r_powerPlayOpportunities - 29
+CAR - r_powerPlayOpportunities - 15
+-----
+CHI - r_penaltyKillOpportunities - 4
+CAR - r_penaltyKillOpportunities - 25
+-----
+CHI - r_penaltyKillPercentage - 24
+CAR - r_penaltyKillPercentage - 18
+-----
+CHI - r_shotsPerGame - 12
+CAR - r_shotsPerGame - 8
+-----
+CHI - r_shotsAllowed - 22
+CAR - r_shotsAllowed - 5
+-----
+CHI - r_winScoreFirst - 27
+CAR - r_winScoreFirst - 7
+-----
+CHI - r_winOppScoreFirst - 30
+CAR - r_winOppScoreFirst - 19
+-----
+CHI - r_winLeadFirstPer - 27
+CAR - r_winLeadFirstPer - 15
+-----
+CHI - r_winLeadSecondPer - 31
+CAR - r_winLeadSecondPer - 10
+-----
+CHI - r_winOutshootOpp - 24
+CAR - r_winOutshootOpp - 9
+-----
+CHI - r_winOutshotByOpp - 24
+CAR - r_winOutshotByOpp - 9
+-----
+CHI - r_faceOffsTaken - 30
+CAR - r_faceOffsTaken - 13
+-----
+CHI - r_faceOffsWon - 31
+CAR - r_faceOffsWon - 15
+-----
+CHI - r_faceOffsLost - 3
+CAR - r_faceOffsLost - 20
+-----
+CHI - r_faceOffWinPercentage - 23
+CAR - r_faceOffWinPercentage - 19
+-----
+CHI - r_savePctRank - 14
+CAR - r_savePctRank - 18
+-----
+CHI - r_shootingPctRank - 25
+CAR - r_shootingPctRank - 16
+-----
+CHI - totalGoals - 20
+CAR - totalGoals - 32
+-----
+CHI - totalGoalsAllowed - 25
+CAR - totalGoalsAllowed - 29
+-----
+CHI - pyExp - 0.3902439024390244
+CAR - pyExp - 0.5490616621983915
+-----
+CHI - winPerc - 0.25
+CAR - winPerc - 0.6
+-----
+-------------------------------------------
+STL - name - St. Louis Blues
+BOS - name - Boston Bruins
+-----
+STL - abrv - STL
+BOS - abrv - BOS
+-----
+STL - gamesPlayed - 10
+BOS - gamesPlayed - 9
+-----
+STL - wins - 5
+BOS - wins - 6
+-----
+STL - losses - 2
+BOS - losses - 1
+-----
+STL - ot - 3
+BOS - ot - 2
+-----
+STL - pts - 13
+BOS - pts - 14
+-----
+STL - ptPctg - 65.0
+BOS - ptPctg - 77.8
+-----
+STL - goalsPerGame - 3.2
+BOS - goalsPerGame - 2.889
+-----
+STL - goalsAgainstPerGame - 3.1
+BOS - goalsAgainstPerGame - 2.111
+-----
+STL - evGGARatio - 1.0
+BOS - evGGARatio - 1.2308
+-----
+STL - powerPlayPercentage - 25.8
+BOS - powerPlayPercentage - 35.7
+-----
+STL - powerPlayGoals - 8.0
+BOS - powerPlayGoals - 10.0
+-----
+STL - powerPlayGoalsAgainst - 5.0
+BOS - powerPlayGoalsAgainst - 4.0
+-----
+STL - powerPlayOpportunities - 31.0
+BOS - powerPlayOpportunities - 28.0
+-----
+STL - penaltyKillPercentage - 83.3
+BOS - penaltyKillPercentage - 84.0
+-----
+STL - shotsPerGame - 30.2
+BOS - shotsPerGame - 33.2222
+-----
+STL - shotsAllowed - 30.6
+BOS - shotsAllowed - 32.4444
+-----
+STL - winScoreFirst - 0.5
+BOS - winScoreFirst - 0.714
+-----
+STL - winOppScoreFirst - 0.5
+BOS - winOppScoreFirst - 0.5
+-----
+STL - winLeadFirstPer - 0.0
+BOS - winLeadFirstPer - 0.833
+-----
+STL - winLeadSecondPer - 0.5
+BOS - winLeadSecondPer - 1.0
+-----
+STL - winOutshootOpp - 0.6
+BOS - winOutshootOpp - 0.5
+-----
+STL - winOutshotByOpp - 0.25
+BOS - winOutshotByOpp - 1.0
+-----
+STL - faceOffsTaken - 594.0
+BOS - faceOffsTaken - 511.0
+-----
+STL - faceOffsWon - 316.0
+BOS - faceOffsWon - 260.0
+-----
+STL - faceOffsLost - 278.0
+BOS - faceOffsLost - 251.0
+-----
+STL - faceOffWinPercentage - 53.2
+BOS - faceOffWinPercentage - 50.9
+-----
+STL - shootingPctg - 10.6
+BOS - shootingPctg - 8.7
+-----
+STL - savePctg - 0.899
+BOS - savePctg - 0.935
+-----
+STL - r_wins - 16
+BOS - r_wins - 7
+-----
+STL - r_losses - 6
+BOS - r_losses - 2
+-----
+STL - r_ot - 3
+BOS - r_ot - 4
+-----
+STL - r_pts - 9
+BOS - r_pts - 5
+-----
+STL - r_ptPctg - 7
+BOS - r_ptPctg - 3
+-----
+STL - r_goalsPerGame - 11
+BOS - r_goalsPerGame - 19
+-----
+STL - r_goalsAgainstPerGame - 16
+BOS - r_goalsAgainstPerGame - 1
+-----
+STL - r_evGGARatio - 16
+BOS - r_evGGARatio - 9
+-----
+STL - r_powerPlayPercentage - 5
+BOS - r_powerPlayPercentage - 1
+-----
+STL - r_powerPlayGoals - 11
+BOS - r_powerPlayGoals - 4
+-----
+STL - r_powerPlayGoalsAgainst - 9
+BOS - r_powerPlayGoalsAgainst - 3
+-----
+STL - r_powerPlayOpportunities - 22
+BOS - r_powerPlayOpportunities - 26
+-----
+STL - r_penaltyKillOpportunities - 9
+BOS - r_penaltyKillOpportunities - 3
+-----
+STL - r_penaltyKillPercentage - 11
+BOS - r_penaltyKillPercentage - 9
+-----
+STL - r_shotsPerGame - 22
+BOS - r_shotsPerGame - 7
+-----
+STL - r_shotsAllowed - 14
+BOS - r_shotsAllowed - 23
+-----
+STL - r_winScoreFirst - 17
+BOS - r_winScoreFirst - 6
+-----
+STL - r_winOppScoreFirst - 11
+BOS - r_winOppScoreFirst - 18
+-----
+STL - r_winLeadFirstPer - 30
+BOS - r_winLeadFirstPer - 12
+-----
+STL - r_winLeadSecondPer - 27
+BOS - r_winLeadSecondPer - 6
+-----
+STL - r_winOutshootOpp - 10
+BOS - r_winOutshootOpp - 13
+-----
+STL - r_winOutshotByOpp - 10
+BOS - r_winOutshotByOpp - 13
+-----
+STL - r_faceOffsTaken - 17
+BOS - r_faceOffsTaken - 28
+-----
+STL - r_faceOffsWon - 11
+BOS - r_faceOffsWon - 27
+-----
+STL - r_faceOffsLost - 9
+BOS - r_faceOffsLost - 4
+-----
+STL - r_faceOffWinPercentage - 4
+BOS - r_faceOffWinPercentage - 11
+-----
+STL - r_savePctRank - 20
+BOS - r_savePctRank - 1
+-----
+STL - r_shootingPctRank - 9
+BOS - r_shootingPctRank - 20
+-----
+STL - totalGoals - 32
+BOS - totalGoals - 27
+-----
+STL - totalGoalsAllowed - 31
+BOS - totalGoalsAllowed - 19
+-----
+STL - pyExp - 0.5158690176322418
+BOS - pyExp - 0.6688073394495413
+-----
+STL - winPerc - 0.5
+BOS - winPerc - 0.6666666666666666
+-----
+-------------------------------------------
+TOR - name - Toronto Maple Leafs
+MTL - name - Montréal Canadiens
+-----
+TOR - abrv - TOR
+MTL - abrv - MTL
+-----
+TOR - gamesPlayed - 12
+MTL - gamesPlayed - 10
+-----
+TOR - wins - 6
+MTL - wins - 4
+-----
+TOR - losses - 4
+MTL - losses - 4
+-----
+TOR - ot - 2
+MTL - ot - 2
+-----
+TOR - pts - 14
+MTL - pts - 10
+-----
+TOR - ptPctg - 58.3
+MTL - ptPctg - 50.0
+-----
+TOR - goalsPerGame - 3.667
+MTL - goalsPerGame - 3.5
+-----
+TOR - goalsAgainstPerGame - 3.25
+MTL - goalsAgainstPerGame - 3.3
+-----
+TOR - evGGARatio - 0.9655
+MTL - evGGARatio - 1.2778
+-----
+TOR - powerPlayPercentage - 21.6
+MTL - powerPlayPercentage - 25.0
+-----
+TOR - powerPlayGoals - 8.0
+MTL - powerPlayGoals - 9.0
+-----
+TOR - powerPlayGoalsAgainst - 8.0
+MTL - powerPlayGoalsAgainst - 11.0
+-----
+TOR - powerPlayOpportunities - 37.0
+MTL - powerPlayOpportunities - 36.0
+-----
+TOR - penaltyKillPercentage - 79.5
+MTL - penaltyKillPercentage - 67.7
+-----
+TOR - shotsPerGame - 32.8333
+MTL - shotsPerGame - 34.0
+-----
+TOR - shotsAllowed - 32.3333
+MTL - shotsAllowed - 31.1
+-----
+TOR - winScoreFirst - 0.667
+MTL - winScoreFirst - 0.667
+-----
+TOR - winOppScoreFirst - 0.444
+MTL - winOppScoreFirst - 0.0
+-----
+TOR - winLeadFirstPer - 0.5
+MTL - winLeadFirstPer - 0.667
+-----
+TOR - winLeadSecondPer - 0.714
+MTL - winLeadSecondPer - 0.667
+-----
+TOR - winOutshootOpp - 0.8
+MTL - winOutshootOpp - 0.5
+-----
+TOR - winOutshotByOpp - 0.2
+MTL - winOutshotByOpp - 0.333
+-----
+TOR - faceOffsTaken - 695.0
+MTL - faceOffsTaken - 653.0
+-----
+TOR - faceOffsWon - 368.0
+MTL - faceOffsWon - 307.0
+-----
+TOR - faceOffsLost - 327.0
+MTL - faceOffsLost - 346.0
+-----
+TOR - faceOffWinPercentage - 53.0
+MTL - faceOffWinPercentage - 47.0
+-----
+TOR - shootingPctg - 11.2
+MTL - shootingPctg - 10.3
+-----
+TOR - savePctg - 0.899
+MTL - savePctg - 0.894
+-----
+TOR - r_wins - 8
+MTL - r_wins - 21
+-----
+TOR - r_losses - 16
+MTL - r_losses - 17
+-----
+TOR - r_ot - 5
+MTL - r_ot - 7
+-----
+TOR - r_pts - 6
+MTL - r_pts - 20
+-----
+TOR - r_ptPctg - 15
+MTL - r_ptPctg - 21
+-----
+TOR - r_goalsPerGame - 4
+MTL - r_goalsPerGame - 5
+-----
+TOR - r_goalsAgainstPerGame - 20
+MTL - r_goalsAgainstPerGame - 22
+-----
+TOR - r_evGGARatio - 18
+MTL - r_evGGARatio - 7
+-----
+TOR - r_powerPlayPercentage - 12
+MTL - r_powerPlayPercentage - 8
+-----
+TOR - r_powerPlayGoals - 10
+MTL - r_powerPlayGoals - 7
+-----
+TOR - r_powerPlayGoalsAgainst - 22
+MTL - r_powerPlayGoalsAgainst - 30
+-----
+TOR - r_powerPlayOpportunities - 9
+MTL - r_powerPlayOpportunities - 11
+-----
+TOR - r_penaltyKillOpportunities - 24
+MTL - r_penaltyKillOpportunities - 15
+-----
+TOR - r_penaltyKillPercentage - 17
+MTL - r_penaltyKillPercentage - 30
+-----
+TOR - r_shotsPerGame - 9
+MTL - r_shotsPerGame - 6
+-----
+TOR - r_shotsAllowed - 21
+MTL - r_shotsAllowed - 17
+-----
+TOR - r_winScoreFirst - 24
+MTL - r_winScoreFirst - 14
+-----
+TOR - r_winOppScoreFirst - 2
+MTL - r_winOppScoreFirst - 26
+-----
+TOR - r_winLeadFirstPer - 22
+MTL - r_winLeadFirstPer - 19
+-----
+TOR - r_winLeadSecondPer - 22
+MTL - r_winLeadSecondPer - 23
+-----
+TOR - r_winOutshootOpp - 3
+MTL - r_winOutshootOpp - 16
+-----
+TOR - r_winOutshotByOpp - 3
+MTL - r_winOutshotByOpp - 16
+-----
+TOR - r_faceOffsTaken - 5
+MTL - r_faceOffsTaken - 7
+-----
+TOR - r_faceOffsWon - 2
+MTL - r_faceOffsWon - 16
+-----
+TOR - r_faceOffsLost - 23
+MTL - r_faceOffsLost - 27
+-----
+TOR - r_faceOffWinPercentage - 5
+MTL - r_faceOffWinPercentage - 27
+-----
+TOR - r_savePctRank - 19
+MTL - r_savePctRank - 24
+-----
+TOR - r_shootingPctRank - 5
+MTL - r_shootingPctRank - 12
+-----
+TOR - totalGoals - 45
+MTL - totalGoals - 35
+-----
+TOR - totalGoalsAllowed - 39
+MTL - totalGoalsAllowed - 33
+-----
+TOR - pyExp - 0.5710659898477157
+MTL - pyExp - 0.5293863439930856
+-----
+TOR - winPerc - 0.5
+MTL - winPerc - 0.4
+-----
+-------------------------------------------
+NSH - name - Nashville Predators
+TBL - name - Tampa Bay Lightning
+-----
+NSH - abrv - NSH
+TBL - abrv - TBL
+-----
+NSH - gamesPlayed - 10
+TBL - gamesPlayed - 9
+-----
+NSH - wins - 6
+TBL - wins - 5
+-----
+NSH - losses - 3
+TBL - losses - 3
+-----
+NSH - ot - 1
+TBL - ot - 1
+-----
+NSH - pts - 13
+TBL - pts - 11
+-----
+NSH - ptPctg - 65.0
+TBL - ptPctg - 61.1
+-----
+NSH - goalsPerGame - 4.2
+TBL - goalsPerGame - 3.444
+-----
+NSH - goalsAgainstPerGame - 3.1
+TBL - goalsAgainstPerGame - 3.222
+-----
+NSH - evGGARatio - 1.7222
+TBL - evGGARatio - 1.2941
+-----
+NSH - powerPlayPercentage - 19.4
+TBL - powerPlayPercentage - 24.0
+-----
+NSH - powerPlayGoals - 7.0
+TBL - powerPlayGoals - 6.0
+-----
+NSH - powerPlayGoalsAgainst - 9.0
+TBL - powerPlayGoalsAgainst - 9.0
+-----
+NSH - powerPlayOpportunities - 36.0
+TBL - powerPlayOpportunities - 25.0
+-----
+NSH - penaltyKillPercentage - 71.0
+TBL - penaltyKillPercentage - 71.0
+-----
+NSH - shotsPerGame - 31.1
+TBL - shotsPerGame - 31.5556
+-----
+NSH - shotsAllowed - 30.1
+TBL - shotsAllowed - 33.8889
+-----
+NSH - winScoreFirst - 0.833
+TBL - winScoreFirst - 1.0
+-----
+NSH - winOppScoreFirst - 0.25
+TBL - winOppScoreFirst - 0.333
+-----
+NSH - winLeadFirstPer - 1.0
+TBL - winLeadFirstPer - 0.75
+-----
+NSH - winLeadSecondPer - 1.0
+TBL - winLeadSecondPer - 0.75
+-----
+NSH - winOutshootOpp - 0.8
+TBL - winOutshootOpp - 0.5
+-----
+NSH - winOutshotByOpp - 0.4
+TBL - winOutshotByOpp - 0.6
+-----
+NSH - faceOffsTaken - 616.0
+TBL - faceOffsTaken - 531.0
+-----
+NSH - faceOffsWon - 320.0
+TBL - faceOffsWon - 267.0
+-----
+NSH - faceOffsLost - 296.0
+TBL - faceOffsLost - 264.0
+-----
+NSH - faceOffWinPercentage - 52.0
+TBL - faceOffWinPercentage - 50.3
+-----
+NSH - shootingPctg - 13.5
+TBL - shootingPctg - 10.9
+-----
+NSH - savePctg - 0.897
+TBL - savePctg - 0.905
+-----
+NSH - r_wins - 10
+TBL - r_wins - 18
+-----
+NSH - r_losses - 10
+TBL - r_losses - 14
+-----
+NSH - r_ot - 14
+TBL - r_ot - 18
+-----
+NSH - r_pts - 11
+TBL - r_pts - 19
+-----
+NSH - r_ptPctg - 9
+TBL - r_ptPctg - 12
+-----
+NSH - r_goalsPerGame - 2
+TBL - r_goalsPerGame - 6
+-----
+NSH - r_goalsAgainstPerGame - 15
+TBL - r_goalsAgainstPerGame - 19
+-----
+NSH - r_evGGARatio - 2
+TBL - r_evGGARatio - 6
+-----
+NSH - r_powerPlayPercentage - 16
+TBL - r_powerPlayPercentage - 10
+-----
+NSH - r_powerPlayGoals - 13
+TBL - r_powerPlayGoals - 19
+-----
+NSH - r_powerPlayGoalsAgainst - 26
+TBL - r_powerPlayGoalsAgainst - 27
+-----
+NSH - r_powerPlayOpportunities - 10
+TBL - r_powerPlayOpportunities - 30
+-----
+NSH - r_penaltyKillOpportunities - 11
+TBL - r_penaltyKillOpportunities - 12
+-----
+NSH - r_penaltyKillPercentage - 27
+TBL - r_penaltyKillPercentage - 28
+-----
+NSH - r_shotsPerGame - 17
+TBL - r_shotsPerGame - 14
+-----
+NSH - r_shotsAllowed - 10
+TBL - r_shotsAllowed - 26
+-----
+NSH - r_winScoreFirst - 8
+TBL - r_winScoreFirst - 20
+-----
+NSH - r_winOppScoreFirst - 20
+TBL - r_winOppScoreFirst - 13
+-----
+NSH - r_winLeadFirstPer - 6
+TBL - r_winLeadFirstPer - 16
+-----
+NSH - r_winLeadSecondPer - 9
+TBL - r_winLeadSecondPer - 21
+-----
+NSH - r_winOutshootOpp - 4
+TBL - r_winOutshootOpp - 15
+-----
+NSH - r_winOutshotByOpp - 4
+TBL - r_winOutshotByOpp - 15
+-----
+NSH - r_faceOffsTaken - 14
+TBL - r_faceOffsTaken - 26
+-----
+NSH - r_faceOffsWon - 9
+TBL - r_faceOffsWon - 25
+-----
+NSH - r_faceOffsLost - 14
+TBL - r_faceOffsLost - 6
+-----
+NSH - r_faceOffWinPercentage - 6
+TBL - r_faceOffWinPercentage - 14
+-----
+NSH - r_savePctRank - 22
+TBL - r_savePctRank - 13
+-----
+NSH - r_shootingPctRank - 2
+TBL - r_shootingPctRank - 8
+-----
+NSH - totalGoals - 42
+TBL - totalGoals - 31
+-----
+NSH - totalGoalsAllowed - 31
+TBL - totalGoalsAllowed - 29
+-----
+NSH - pyExp - 0.6473394495412844
+TBL - pyExp - 0.5332963374028857
+-----
+NSH - winPerc - 0.6
+TBL - winPerc - 0.5555555555555556
+-----
+-------------------------------------------
+CBJ - name - Columbus Blue Jackets
+PHI - name - Philadelphia Flyers
+-----
+CBJ - abrv - CBJ
+PHI - abrv - PHI
+-----
+CBJ - gamesPlayed - 10
+PHI - gamesPlayed - 8
+-----
+CBJ - wins - 5
+PHI - wins - 4
+-----
+CBJ - losses - 3
+PHI - losses - 3
+-----
+CBJ - ot - 2
+PHI - ot - 1
+-----
+CBJ - pts - 12
+PHI - pts - 9
+-----
+CBJ - ptPctg - 60.0
+PHI - ptPctg - 56.3
+-----
+CBJ - goalsPerGame - 2.6
+PHI - goalsPerGame - 3.125
+-----
+CBJ - goalsAgainstPerGame - 3.2
+PHI - goalsAgainstPerGame - 2.625
+-----
+CBJ - evGGARatio - 0.9474
+PHI - evGGARatio - 1.3333
+-----
+CBJ - powerPlayPercentage - 13.3
+PHI - powerPlayPercentage - 25.8
+-----
+CBJ - powerPlayGoals - 4.0
+PHI - powerPlayGoals - 8.0
+-----
+CBJ - powerPlayGoalsAgainst - 6.0
+PHI - powerPlayGoalsAgainst - 5.0
+-----
+CBJ - powerPlayOpportunities - 30.0
+PHI - powerPlayOpportunities - 31.0
+-----
+CBJ - penaltyKillPercentage - 78.6
+PHI - penaltyKillPercentage - 79.2
+-----
+CBJ - shotsPerGame - 34.4
+PHI - shotsPerGame - 34.625
+-----
+CBJ - shotsAllowed - 29.6
+PHI - shotsAllowed - 26.875
+-----
+CBJ - winScoreFirst - 1.0
+PHI - winScoreFirst - 0.8
+-----
+CBJ - winOppScoreFirst - 0.0
+PHI - winOppScoreFirst - 0.0
+-----
+CBJ - winLeadFirstPer - 1.0
+PHI - winLeadFirstPer - 1.0
+-----
+CBJ - winLeadSecondPer - 1.0
+PHI - winLeadSecondPer - 1.0
+-----
+CBJ - winOutshootOpp - 0.625
+PHI - winOutshootOpp - 0.5
+-----
+CBJ - winOutshotByOpp - 0.0
+PHI - winOutshotByOpp - 0.5
+-----
+CBJ - faceOffsTaken - 548.0
+PHI - faceOffsTaken - 480.0
+-----
+CBJ - faceOffsWon - 268.0
+PHI - faceOffsWon - 276.0
+-----
+CBJ - faceOffsLost - 280.0
+PHI - faceOffsLost - 204.0
+-----
+CBJ - faceOffWinPercentage - 48.9
+PHI - faceOffWinPercentage - 57.5
+-----
+CBJ - shootingPctg - 7.6
+PHI - shootingPctg - 9.0
+-----
+CBJ - savePctg - 0.892
+PHI - savePctg - 0.902
+-----
+CBJ - r_wins - 17
+PHI - r_wins - 22
+-----
+CBJ - r_losses - 13
+PHI - r_losses - 15
+-----
+CBJ - r_ot - 6
+PHI - r_ot - 19
+-----
+CBJ - r_pts - 16
+PHI - r_pts - 22
+-----
+CBJ - r_ptPctg - 14
+PHI - r_ptPctg - 17
+-----
+CBJ - r_goalsPerGame - 23
+PHI - r_goalsPerGame - 13
+-----
+CBJ - r_goalsAgainstPerGame - 18
+PHI - r_goalsAgainstPerGame - 9
+-----
+CBJ - r_evGGARatio - 20
+PHI - r_evGGARatio - 5
+-----
+CBJ - r_powerPlayPercentage - 24
+PHI - r_powerPlayPercentage - 6
+-----
+CBJ - r_powerPlayGoals - 24
+PHI - r_powerPlayGoals - 12
+-----
+CBJ - r_powerPlayGoalsAgainst - 14
+PHI - r_powerPlayGoalsAgainst - 11
+-----
+CBJ - r_powerPlayOpportunities - 25
+PHI - r_powerPlayOpportunities - 23
+-----
+CBJ - r_penaltyKillOpportunities - 8
+PHI - r_penaltyKillOpportunities - 2
+-----
+CBJ - r_penaltyKillPercentage - 22
+PHI - r_penaltyKillPercentage - 20
+-----
+CBJ - r_shotsPerGame - 4
+PHI - r_shotsPerGame - 3
+-----
+CBJ - r_shotsAllowed - 7
+PHI - r_shotsAllowed - 1
+-----
+CBJ - r_winScoreFirst - 9
+PHI - r_winScoreFirst - 15
+-----
+CBJ - r_winOppScoreFirst - 24
+PHI - r_winOppScoreFirst - 27
+-----
+CBJ - r_winLeadFirstPer - 9
+PHI - r_winLeadFirstPer - 10
+-----
+CBJ - r_winLeadSecondPer - 12
+PHI - r_winLeadSecondPer - 15
+-----
+CBJ - r_winOutshootOpp - 8
+PHI - r_winOutshootOpp - 17
+-----
+CBJ - r_winOutshotByOpp - 8
+PHI - r_winOutshotByOpp - 17
+-----
+CBJ - r_faceOffsTaken - 25
+PHI - r_faceOffsTaken - 29
+-----
+CBJ - r_faceOffsWon - 24
+PHI - r_faceOffsWon - 22
+-----
+CBJ - r_faceOffsLost - 10
+PHI - r_faceOffsLost - 1
+-----
+CBJ - r_faceOffWinPercentage - 22
+PHI - r_faceOffWinPercentage - 1
+-----
+CBJ - r_savePctRank - 26
+PHI - r_savePctRank - 17
+-----
+CBJ - r_shootingPctRank - 28
+PHI - r_shootingPctRank - 18
+-----
+CBJ - totalGoals - 26
+PHI - totalGoals - 25
+-----
+CBJ - totalGoalsAllowed - 32
+PHI - totalGoalsAllowed - 21
+-----
+CBJ - pyExp - 0.3976470588235294
+PHI - pyExp - 0.5863039399624765
+-----
+CBJ - winPerc - 0.5
+PHI - winPerc - 0.5
+-----
+-------------------------------------------
+PIT - name - Pittsburgh Penguins
+DAL - name - Dallas Stars
+-----
+PIT - abrv - PIT
+DAL - abrv - DAL
+-----
+PIT - gamesPlayed - 11
+DAL - gamesPlayed - 12
+-----
+PIT - wins - 6
+DAL - wins - 4
+-----
+PIT - losses - 5
+DAL - losses - 7
+-----
+PIT - ot - 0
+DAL - ot - 1
+-----
+PIT - pts - 12
+DAL - pts - 9
+-----
+PIT - ptPctg - 54.5
+DAL - ptPctg - 37.5
+-----
+PIT - goalsPerGame - 3.273
+DAL - goalsPerGame - 2.083
+-----
+PIT - goalsAgainstPerGame - 2.727
+DAL - goalsAgainstPerGame - 2.667
+-----
+PIT - evGGARatio - 1.0909
+DAL - evGGARatio - 0.8095
+-----
+PIT - powerPlayPercentage - 17.6
+DAL - powerPlayPercentage - 8.8
+-----
+PIT - powerPlayGoals - 6.0
+DAL - powerPlayGoals - 3.0
+-----
+PIT - powerPlayGoalsAgainst - 5.0
+DAL - powerPlayGoalsAgainst - 7.0
+-----
+PIT - powerPlayOpportunities - 34.0
+DAL - powerPlayOpportunities - 34.0
+-----
+PIT - penaltyKillPercentage - 80.8
+DAL - penaltyKillPercentage - 82.9
+-----
+PIT - shotsPerGame - 32.3636
+DAL - shotsPerGame - 28.0
+-----
+PIT - shotsAllowed - 30.2727
+DAL - shotsAllowed - 29.0
+-----
+PIT - winScoreFirst - 0.75
+DAL - winScoreFirst - 0.4
+-----
+PIT - winOppScoreFirst - 0.429
+DAL - winOppScoreFirst - 0.286
+-----
+PIT - winLeadFirstPer - 1.0
+DAL - winLeadFirstPer - 0.75
+-----
+PIT - winLeadSecondPer - 0.8
+DAL - winLeadSecondPer - 0.6
+-----
+PIT - winOutshootOpp - 0.571
+DAL - winOutshootOpp - 0.25
+-----
+PIT - winOutshotByOpp - 0.5
+DAL - winOutshotByOpp - 0.429
+-----
+PIT - faceOffsTaken - 629.0
+DAL - faceOffsTaken - 698.0
+-----
+PIT - faceOffsWon - 325.0
+DAL - faceOffsWon - 361.0
+-----
+PIT - faceOffsLost - 304.0
+DAL - faceOffsLost - 337.0
+-----
+PIT - faceOffWinPercentage - 51.7
+DAL - faceOffWinPercentage - 51.7
+-----
+PIT - shootingPctg - 10.1
+DAL - shootingPctg - 7.4
+-----
+PIT - savePctg - 0.91
+DAL - savePctg - 0.908
+-----
+PIT - r_wins - 14
+DAL - r_wins - 24
+-----
+PIT - r_losses - 22
+DAL - r_losses - 28
+-----
+PIT - r_ot - 26
+DAL - r_ot - 21
+-----
+PIT - r_pts - 17
+DAL - r_pts - 24
+-----
+PIT - r_ptPctg - 18
+DAL - r_ptPctg - 26
+-----
+PIT - r_goalsPerGame - 10
+DAL - r_goalsPerGame - 31
+-----
+PIT - r_goalsAgainstPerGame - 11
+DAL - r_goalsAgainstPerGame - 10
+-----
+PIT - r_evGGARatio - 13
+DAL - r_evGGARatio - 23
+-----
+PIT - r_powerPlayPercentage - 21
+DAL - r_powerPlayPercentage - 28
+-----
+PIT - r_powerPlayGoals - 17
+DAL - r_powerPlayGoals - 27
+-----
+PIT - r_powerPlayGoalsAgainst - 10
+DAL - r_powerPlayGoalsAgainst - 19
+-----
+PIT - r_powerPlayOpportunities - 16
+DAL - r_powerPlayOpportunities - 17
+-----
+PIT - r_penaltyKillOpportunities - 5
+DAL - r_penaltyKillOpportunities - 27
+-----
+PIT - r_penaltyKillPercentage - 15
+DAL - r_penaltyKillPercentage - 12
+-----
+PIT - r_shotsPerGame - 10
+DAL - r_shotsPerGame - 29
+-----
+PIT - r_shotsAllowed - 12
+DAL - r_shotsAllowed - 3
+-----
+PIT - r_winScoreFirst - 19
+DAL - r_winScoreFirst - 25
+-----
+PIT - r_winOppScoreFirst - 6
+DAL - r_winOppScoreFirst - 14
+-----
+PIT - r_winLeadFirstPer - 7
+DAL - r_winLeadFirstPer - 17
+-----
+PIT - r_winLeadSecondPer - 20
+DAL - r_winLeadSecondPer - 26
+-----
+PIT - r_winOutshootOpp - 11
+DAL - r_winOutshootOpp - 27
+-----
+PIT - r_winOutshotByOpp - 11
+DAL - r_winOutshotByOpp - 27
+-----
+PIT - r_faceOffsTaken - 11
+DAL - r_faceOffsTaken - 4
+-----
+PIT - r_faceOffsWon - 8
+DAL - r_faceOffsWon - 3
+-----
+PIT - r_faceOffsLost - 15
+DAL - r_faceOffsLost - 26
+-----
+PIT - r_faceOffWinPercentage - 8
+DAL - r_faceOffWinPercentage - 7
+-----
+PIT - r_savePctRank - 10
+DAL - r_savePctRank - 11
+-----
+PIT - r_shootingPctRank - 14
+DAL - r_shootingPctRank - 29
+-----
+PIT - totalGoals - 37
+DAL - totalGoals - 25
+-----
+PIT - totalGoalsAllowed - 30
+DAL - totalGoalsAllowed - 33
+-----
+PIT - pyExp - 0.6033494931687968
+DAL - pyExp - 0.3646441073512252
+-----
+PIT - winPerc - 0.5454545454545454
+DAL - winPerc - 0.3333333333333333
+-----
+-------------------------------------------
+LAK - name - Los Angeles Kings
+MIN - name - Minnesota Wild
+-----
+LAK - abrv - LAK
+MIN - abrv - MIN
+-----
+LAK - gamesPlayed - 10
+MIN - gamesPlayed - 10
+-----
+LAK - wins - 4
+MIN - wins - 3
+-----
+LAK - losses - 6
+MIN - losses - 7
+-----
+LAK - ot - 0
+MIN - ot - 0
+-----
+LAK - pts - 8
+MIN - pts - 6
+-----
+LAK - ptPctg - 40.0
+MIN - ptPctg - 30.0
+-----
+LAK - goalsPerGame - 2.9
+MIN - goalsPerGame - 2.1
+-----
+LAK - goalsAgainstPerGame - 3.9
+MIN - goalsAgainstPerGame - 3.6
+-----
+LAK - evGGARatio - 1.0
+MIN - evGGARatio - 0.6667
+-----
+LAK - powerPlayPercentage - 10.3
+MIN - powerPlayPercentage - 17.1
+-----
+LAK - powerPlayGoals - 4.0
+MIN - powerPlayGoals - 6.0
+-----
+LAK - powerPlayGoalsAgainst - 11.0
+MIN - powerPlayGoalsAgainst - 7.0
+-----
+LAK - powerPlayOpportunities - 39.0
+MIN - powerPlayOpportunities - 35.0
+-----
+LAK - penaltyKillPercentage - 70.3
+MIN - penaltyKillPercentage - 78.1
+-----
+LAK - shotsPerGame - 37.7
+MIN - shotsPerGame - 29.8
+-----
+LAK - shotsAllowed - 28.7
+MIN - shotsAllowed - 30.3
+-----
+LAK - winScoreFirst - 0.75
+MIN - winScoreFirst - 0.6
+-----
+LAK - winOppScoreFirst - 0.167
+MIN - winOppScoreFirst - 0.0
+-----
+LAK - winLeadFirstPer - 0.75
+MIN - winLeadFirstPer - 0.5
+-----
+LAK - winLeadSecondPer - 1.0
+MIN - winLeadSecondPer - 0.5
+-----
+LAK - winOutshootOpp - 0.444
+MIN - winOutshootOpp - 0.5
+-----
+LAK - winOutshotByOpp - 0.0
+MIN - winOutshotByOpp - 0.0
+-----
+LAK - faceOffsTaken - 591.0
+MIN - faceOffsTaken - 584.0
+-----
+LAK - faceOffsWon - 298.0
+MIN - faceOffsWon - 290.0
+-----
+LAK - faceOffsLost - 293.0
+MIN - faceOffsLost - 294.0
+-----
+LAK - faceOffWinPercentage - 50.4
+MIN - faceOffWinPercentage - 49.7
+-----
+LAK - shootingPctg - 7.7
+MIN - shootingPctg - 7.0
+-----
+LAK - savePctg - 0.864
+MIN - savePctg - 0.881
+-----
+LAK - r_wins - 25
+MIN - r_wins - 27
+-----
+LAK - r_losses - 27
+MIN - r_losses - 29
+-----
+LAK - r_ot - 29
+MIN - r_ot - 30
+-----
+LAK - r_pts - 25
+MIN - r_pts - 29
+-----
+LAK - r_ptPctg - 25
+MIN - r_ptPctg - 29
+-----
+LAK - r_goalsPerGame - 18
+MIN - r_goalsPerGame - 29
+-----
+LAK - r_goalsAgainstPerGame - 31
+MIN - r_goalsAgainstPerGame - 28
+-----
+LAK - r_evGGARatio - 17
+MIN - r_evGGARatio - 28
+-----
+LAK - r_powerPlayPercentage - 27
+MIN - r_powerPlayPercentage - 22
+-----
+LAK - r_powerPlayGoals - 25
+MIN - r_powerPlayGoals - 21
+-----
+LAK - r_powerPlayGoalsAgainst - 31
+MIN - r_powerPlayGoalsAgainst - 21
+-----
+LAK - r_powerPlayOpportunities - 6
+MIN - r_powerPlayOpportunities - 14
+-----
+LAK - r_penaltyKillOpportunities - 23
+MIN - r_penaltyKillOpportunities - 14
+-----
+LAK - r_penaltyKillPercentage - 29
+MIN - r_penaltyKillPercentage - 23
+-----
+LAK - r_shotsPerGame - 1
+MIN - r_shotsPerGame - 24
+-----
+LAK - r_shotsAllowed - 2
+MIN - r_shotsAllowed - 13
+-----
+LAK - r_winScoreFirst - 21
+MIN - r_winScoreFirst - 23
+-----
+LAK - r_winOppScoreFirst - 21
+MIN - r_winOppScoreFirst - 29
+-----
+LAK - r_winLeadFirstPer - 18
+MIN - r_winLeadFirstPer - 26
+-----
+LAK - r_winLeadSecondPer - 17
+MIN - r_winLeadSecondPer - 28
+-----
+LAK - r_winOutshootOpp - 19
+MIN - r_winOutshootOpp - 18
+-----
+LAK - r_winOutshotByOpp - 19
+MIN - r_winOutshotByOpp - 18
+-----
+LAK - r_faceOffsTaken - 18
+MIN - r_faceOffsTaken - 19
+-----
+LAK - r_faceOffsWon - 17
+MIN - r_faceOffsWon - 20
+-----
+LAK - r_faceOffsLost - 12
+MIN - r_faceOffsLost - 13
+-----
+LAK - r_faceOffWinPercentage - 12
+MIN - r_faceOffWinPercentage - 18
+-----
+LAK - r_savePctRank - 31
+MIN - r_savePctRank - 28
+-----
+LAK - r_shootingPctRank - 26
+MIN - r_shootingPctRank - 30
+-----
+LAK - totalGoals - 29
+MIN - totalGoals - 21
+-----
+LAK - totalGoalsAllowed - 39
+MIN - totalGoalsAllowed - 36
+-----
+LAK - pyExp - 0.3560541913632515
+MIN - pyExp - 0.2538860103626943
+-----
+LAK - winPerc - 0.4
+MIN - winPerc - 0.3
+-----
+-------------------------------------------
+ANA - name - Anaheim Ducks
+COL - name - Colorado Avalanche
+-----
+ANA - abrv - ANA
+COL - abrv - COL
+-----
+ANA - gamesPlayed - 11
+COL - gamesPlayed - 10
+-----
+ANA - wins - 6
+COL - wins - 8
+-----
+ANA - losses - 5
+COL - losses - 1
+-----
+ANA - ot - 0
+COL - ot - 1
+-----
+ANA - pts - 12
+COL - pts - 17
+-----
+ANA - ptPctg - 54.5
+COL - ptPctg - 85.0
+-----
+ANA - goalsPerGame - 2.273
+COL - goalsPerGame - 4.2
+-----
+ANA - goalsAgainstPerGame - 2.182
+COL - goalsAgainstPerGame - 2.5
+-----
+ANA - evGGARatio - 1.25
+COL - evGGARatio - 1.9286
+-----
+ANA - powerPlayPercentage - 7.4
+COL - powerPlayPercentage - 21.1
+-----
+ANA - powerPlayGoals - 2.0
+COL - powerPlayGoals - 8.0
+-----
+ANA - powerPlayGoalsAgainst - 6.0
+COL - powerPlayGoalsAgainst - 4.0
+-----
+ANA - powerPlayOpportunities - 27.0
+COL - powerPlayOpportunities - 38.0
+-----
+ANA - penaltyKillPercentage - 83.8
+COL - penaltyKillPercentage - 87.5
+-----
+ANA - shotsPerGame - 28.7273
+COL - shotsPerGame - 30.8
+-----
+ANA - shotsAllowed - 29.4545
+COL - shotsAllowed - 34.3
+-----
+ANA - winScoreFirst - 0.8
+COL - winScoreFirst - 0.857
+-----
+ANA - winOppScoreFirst - 0.333
+COL - winOppScoreFirst - 0.667
+-----
+ANA - winLeadFirstPer - 1.0
+COL - winLeadFirstPer - 1.0
+-----
+ANA - winLeadSecondPer - 1.0
+COL - winLeadSecondPer - 1.0
+-----
+ANA - winOutshootOpp - 0.0
+COL - winOutshootOpp - 1.0
+-----
+ANA - winOutshotByOpp - 0.857
+COL - winOutshotByOpp - 0.714
+-----
+ANA - faceOffsTaken - 582.0
+COL - faceOffsTaken - 606.0
+-----
+ANA - faceOffsWon - 312.0
+COL - faceOffsWon - 272.0
+-----
+ANA - faceOffsLost - 270.0
+COL - faceOffsLost - 334.0
+-----
+ANA - faceOffWinPercentage - 53.6
+COL - faceOffWinPercentage - 44.9
+-----
+ANA - shootingPctg - 7.9
+COL - shootingPctg - 13.6
+-----
+ANA - savePctg - 0.926
+COL - savePctg - 0.927
+-----
+ANA - r_wins - 14
+COL - r_wins - 3
+-----
+ANA - r_losses - 22
+COL - r_losses - 1
+-----
+ANA - r_ot - 26
+COL - r_ot - 11
+-----
+ANA - r_pts - 17
+COL - r_pts - 3
+-----
+ANA - r_ptPctg - 18
+COL - r_ptPctg - 1
+-----
+ANA - r_goalsPerGame - 28
+COL - r_goalsPerGame - 1
+-----
+ANA - r_goalsAgainstPerGame - 2
+COL - r_goalsAgainstPerGame - 8
+-----
+ANA - r_evGGARatio - 8
+COL - r_evGGARatio - 1
+-----
+ANA - r_powerPlayPercentage - 30
+COL - r_powerPlayPercentage - 14
+-----
+ANA - r_powerPlayGoals - 30
+COL - r_powerPlayGoals - 9
+-----
+ANA - r_powerPlayGoalsAgainst - 15
+COL - r_powerPlayGoalsAgainst - 2
+-----
+ANA - r_powerPlayOpportunities - 28
+COL - r_powerPlayOpportunities - 7
+-----
+ANA - r_penaltyKillOpportunities - 22
+COL - r_penaltyKillOpportunities - 13
+-----
+ANA - r_penaltyKillPercentage - 10
+COL - r_penaltyKillPercentage - 5
+-----
+ANA - r_shotsPerGame - 26
+COL - r_shotsPerGame - 19
+-----
+ANA - r_shotsAllowed - 6
+COL - r_shotsAllowed - 28
+-----
+ANA - r_winScoreFirst - 12
+COL - r_winScoreFirst - 3
+-----
+ANA - r_winOppScoreFirst - 12
+COL - r_winOppScoreFirst - 8
+-----
+ANA - r_winLeadFirstPer - 8
+COL - r_winLeadFirstPer - 2
+-----
+ANA - r_winLeadSecondPer - 11
+COL - r_winLeadSecondPer - 3
+-----
+ANA - r_winOutshootOpp - 30
+COL - r_winOutshootOpp - 1
+-----
+ANA - r_winOutshotByOpp - 30
+COL - r_winOutshotByOpp - 1
+-----
+ANA - r_faceOffsTaken - 20
+COL - r_faceOffsTaken - 15
+-----
+ANA - r_faceOffsWon - 14
+COL - r_faceOffsWon - 23
+-----
+ANA - r_faceOffsLost - 7
+COL - r_faceOffsLost - 25
+-----
+ANA - r_faceOffWinPercentage - 3
+COL - r_faceOffWinPercentage - 31
+-----
+ANA - r_savePctRank - 4
+COL - r_savePctRank - 3
+-----
+ANA - r_shootingPctRank - 23
+COL - r_shootingPctRank - 1
+-----
+ANA - totalGoals - 26
+COL - totalGoals - 42
+-----
+ANA - totalGoalsAllowed - 25
+COL - totalGoalsAllowed - 25
+-----
+ANA - pyExp - 0.5196003074558032
+COL - pyExp - 0.7383842611971536
+-----
+ANA - winPerc - 0.5454545454545454
+COL - winPerc - 0.8
+-----
+-------------------------------------------
+CGY - name - Calgary Flames
+WPG - name - Winnipeg Jets
+-----
+CGY - abrv - CGY
+WPG - abrv - WPG
+-----
+CGY - gamesPlayed - 12
+WPG - gamesPlayed - 11
+-----
+CGY - wins - 6
+WPG - wins - 5
+-----
+CGY - losses - 5
+WPG - losses - 6
+-----
+CGY - ot - 1
+WPG - ot - 0
+-----
+CGY - pts - 13
+WPG - pts - 10
+-----
+CGY - ptPctg - 54.2
+WPG - ptPctg - 45.5
+-----
+CGY - goalsPerGame - 2.75
+WPG - goalsPerGame - 2.545
+-----
+CGY - goalsAgainstPerGame - 3.083
+WPG - goalsAgainstPerGame - 3.273
+-----
+CGY - evGGARatio - 0.7857
+WPG - evGGARatio - 0.75
+-----
+CGY - powerPlayPercentage - 17.9
+WPG - powerPlayPercentage - 15.8
+-----
+CGY - powerPlayGoals - 7.0
+WPG - powerPlayGoals - 6.0
+-----
+CGY - powerPlayGoalsAgainst - 5.0
+WPG - powerPlayGoalsAgainst - 8.0
+-----
+CGY - powerPlayOpportunities - 39.0
+WPG - powerPlayOpportunities - 38.0
+-----
+CGY - penaltyKillPercentage - 88.9
+WPG - penaltyKillPercentage - 63.6
+-----
+CGY - shotsPerGame - 31.0
+WPG - shotsPerGame - 32.0909
+-----
+CGY - shotsAllowed - 30.0833
+WPG - shotsAllowed - 33.5455
+-----
+CGY - winScoreFirst - 1.0
+WPG - winScoreFirst - 0.25
+-----
+CGY - winOppScoreFirst - 0.25
+WPG - winOppScoreFirst - 0.571
+-----
+CGY - winLeadFirstPer - 1.0
+WPG - winLeadFirstPer - 0.5
+-----
+CGY - winLeadSecondPer - 1.0
+WPG - winLeadSecondPer - 1.0
+-----
+CGY - winOutshootOpp - 0.5
+WPG - winOutshootOpp - 0.167
+-----
+CGY - winOutshotByOpp - 0.5
+WPG - winOutshotByOpp - 0.8
+-----
+CGY - faceOffsTaken - 713.0
+WPG - faceOffsTaken - 633.0
+-----
+CGY - faceOffsWon - 352.0
+WPG - faceOffsWon - 318.0
+-----
+CGY - faceOffsLost - 361.0
+WPG - faceOffsLost - 315.0
+-----
+CGY - faceOffWinPercentage - 49.4
+WPG - faceOffWinPercentage - 50.2
+-----
+CGY - shootingPctg - 8.9
+WPG - shootingPctg - 7.9
+-----
+CGY - savePctg - 0.898
+WPG - savePctg - 0.902
+-----
+CGY - r_wins - 13
+WPG - r_wins - 19
+-----
+CGY - r_losses - 21
+WPG - r_losses - 25
+-----
+CGY - r_ot - 17
+WPG - r_ot - 28
+-----
+CGY - r_pts - 14
+WPG - r_pts - 21
+-----
+CGY - r_ptPctg - 20
+WPG - r_ptPctg - 22
+-----
+CGY - r_goalsPerGame - 21
+WPG - r_goalsPerGame - 24
+-----
+CGY - r_goalsAgainstPerGame - 14
+WPG - r_goalsAgainstPerGame - 21
+-----
+CGY - r_evGGARatio - 24
+WPG - r_evGGARatio - 26
+-----
+CGY - r_powerPlayPercentage - 18
+WPG - r_powerPlayPercentage - 23
+-----
+CGY - r_powerPlayGoals - 15
+WPG - r_powerPlayGoals - 20
+-----
+CGY - r_powerPlayGoalsAgainst - 8
+WPG - r_powerPlayGoalsAgainst - 24
+-----
+CGY - r_powerPlayOpportunities - 5
+WPG - r_powerPlayOpportunities - 8
+-----
+CGY - r_penaltyKillOpportunities - 29
+WPG - r_penaltyKillOpportunities - 1
+-----
+CGY - r_penaltyKillPercentage - 4
+WPG - r_penaltyKillPercentage - 31
+-----
+CGY - r_shotsPerGame - 18
+WPG - r_shotsPerGame - 13
+-----
+CGY - r_shotsAllowed - 9
+WPG - r_shotsAllowed - 25
+-----
+CGY - r_winScoreFirst - 10
+WPG - r_winScoreFirst - 30
+-----
+CGY - r_winOppScoreFirst - 9
+WPG - r_winOppScoreFirst - 3
+-----
+CGY - r_winLeadFirstPer - 4
+WPG - r_winLeadFirstPer - 23
+-----
+CGY - r_winLeadSecondPer - 7
+WPG - r_winLeadSecondPer - 14
+-----
+CGY - r_winOutshootOpp - 14
+WPG - r_winOutshootOpp - 29
+-----
+CGY - r_winOutshotByOpp - 14
+WPG - r_winOutshotByOpp - 29
+-----
+CGY - r_faceOffsTaken - 3
+WPG - r_faceOffsTaken - 10
+-----
+CGY - r_faceOffsWon - 4
+WPG - r_faceOffsWon - 10
+-----
+CGY - r_faceOffsLost - 29
+WPG - r_faceOffsLost - 21
+-----
+CGY - r_faceOffWinPercentage - 20
+WPG - r_faceOffWinPercentage - 15
+-----
+CGY - r_savePctRank - 21
+WPG - r_savePctRank - 16
+-----
+CGY - r_shootingPctRank - 19
+WPG - r_shootingPctRank - 24
+-----
+CGY - totalGoals - 33
+WPG - totalGoals - 28
+-----
+CGY - totalGoalsAllowed - 37
+WPG - totalGoalsAllowed - 37
+-----
+CGY - pyExp - 0.44304312449145644
+WPG - pyExp - 0.36414305620065024
+-----
+CGY - winPerc - 0.5
+WPG - winPerc - 0.45454545454545453
+-----
+-------------------------------------------
